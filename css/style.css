@@ -9,7 +9,7 @@ body{
 }
 .section__img{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     position: absolute;
     z-index: -1;
     display: flex;
@@ -55,6 +55,7 @@ align-self: flex-start;
 .article__counter {
     background: olivedrab;
     width: 100%;
+    align-self: flex-start;
 
 }
 .article__item {
