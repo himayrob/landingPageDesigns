@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Bitter';
+    src: url('../storage/font/Bitter/Bitter-ExtraBold.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Space Mono';
+    src: url('../storage/font/Space_Mono/SpaceMono-Regular.ttf') format('truetype');
+  }
+  
