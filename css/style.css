@@ -4,3 +4,34 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.jump-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    
+}
+.subtitle{
+    display: flex;
+    justify-content: center;
+    
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.tira1{
+display: flex;
+justify-content: center;
+align-items: space-between;
+
+}
+
+.tira2{
+    display: flex;
+justify-content: center;
+align-items: space-between;
+
+}
