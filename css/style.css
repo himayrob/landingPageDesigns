@@ -35,7 +35,8 @@ h2{
     font-size: 20px;
     line-height: 1.2;
     width: 60%;
-    max-width: 470px; 
+    max-width: 470px;
+    font-weight: normal; 
 }
 .button{
     display: flex;
