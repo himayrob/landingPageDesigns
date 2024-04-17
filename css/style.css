@@ -4,3 +4,32 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+.fila-superior{
+    display: flex;
+    
+    justify-content: flex-start;
+    align-items: left;
+    border: solid red;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.imagenes-primera-linea
+{    display: flex;
+    flex-direction: row-reverse;
+    border: solid red;
+}
+.subtitulo {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    border: solid red;
+}
+.fila-inferiror{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    align-items: center;
+}
