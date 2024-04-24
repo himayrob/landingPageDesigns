@@ -9,16 +9,26 @@ body{
     flex-direction: column;
     align-items: center;
     background: blue;
-    margin: auto;
-}
-h1{
+    margin: 20px 500px;
     
 }
 .jump{
     display: flex;
     align-items: space-between;
-    padding: 7%;
+    padding: 6%;
     background: red;
+    margin: 0 100px;
+    gap: 90px;
+}
+h1{
+    font-size: 72px;
+    background: blue;
+    height: 100px;
+    width: 500px;
+}
+p{
+    font-size: 30px;
+    background: violet;
 }
 .big__picture{
 
